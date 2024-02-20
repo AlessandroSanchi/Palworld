@@ -1,4 +1,5 @@
 
+
 Voti = int(input("inserisci voto/i: "))
 i = 0
 Somma  = 0
