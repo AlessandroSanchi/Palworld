@@ -9,7 +9,7 @@
 #
 #La funzione ha la seguente signature:
 
-#
+
 #Si provi la funzione in un programma dove le si dia in ingresso la seguente lista:
 
 fatture=[

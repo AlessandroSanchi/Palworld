@@ -1,3 +1,4 @@
+
 Ore = int(input("Inserire numero di ore per la sosta: "))
 Prezzo = 0
 if Ore == 1:
